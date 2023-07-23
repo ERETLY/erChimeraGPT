@@ -1,7 +1,4 @@
 # ChimeraGPT In Telegram
-Look through the code.
-
-Смотрите через код.
 
 # English:
 Your file: enBot.
@@ -31,11 +28,19 @@ Text-To-Spench (tts - limit 50 Symbols)
 В будущем я могу сделать main.py и добавить выбор языка в самом боте.
 
 Функциональность: 
+
 gpt-4
+
 gpt-3.5-turbo
+
 claude-instant-100k
+
 claude-instant
+
 gpt-4-poe
+
 gpt-3.5-poe
+
 Создать изображение (Dall-e)
+
 Озвучить текст (tts - Лимит 50 символов)
