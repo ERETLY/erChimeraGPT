@@ -20,7 +20,7 @@ gpt-3.5-poe
 
 Create image (Dall-e)
 
-Text-To-Spench (tts - limit 50 Symbols)
+Text-To-Spench (tts - limit 50 Characters)
 
 
 # Русский:
@@ -43,4 +43,4 @@ gpt-3.5-poe
 
 Создать изображение (Dall-e)
 
-Озвучить текст (tts - Лимит 50 символов)
+Озвучить текст (tts - Лимит 50 Символов)
