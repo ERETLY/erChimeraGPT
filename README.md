@@ -3,7 +3,7 @@ Look through the code.
 Смотрите через код.
 
 # English:
-Your file: enBot
+Your file: enBot.
 In the future, I may do main.py and add a choose the language in the bot itself.
 
 Functionality:
@@ -18,7 +18,7 @@ Text-To-Spench (tts - limit 50 Symbols)
 
 
 # Русский:
-Ваш файл: ruBot
+Ваш файл: ruBot.
 В будущем я могу сделать main.py и добавить выбор языка в самом боте.
 
 Функциональность: 
