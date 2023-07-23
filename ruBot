@@ -11,7 +11,7 @@ import aiohttp
 import openai
 
 TOKEN = 'ВАШ_БОТ_ТОКЕН'
-openai.api_key = 'ВАШ_ЧИМЕРА_АПИ_ТОКЕН'
+openai.api_key = 'ВАШ_CHIMERA_АПИ_ТОКЕН'
 openai.api_base = "https://chimeragpt.adventblocks.cc/v1"
 
 available_models = [
