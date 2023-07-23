@@ -1,7 +1,8 @@
 # ChimeraGPT In Telegram
-Look through the code/Смотрите через код
+Look through the code.
+Смотрите через код.
 
-English:
+# English:
 Your file: enBot
 In the future, I may do main.py and add a choose the language in the bot itself.
 
@@ -16,7 +17,7 @@ Create image (Dall-e)
 Text-To-Spench (tts - limit 50 Symbols)
 
 
-Русский:
+# Русский:
 Ваш файл: ruBot
 В будущем я могу сделать main.py и добавить выбор языка в самом боте.
 
