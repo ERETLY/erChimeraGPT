@@ -14,7 +14,7 @@ import openai
 
 TOKEN = 'YOUR_BOT_TOKEN'
 openai.api_key = 'YOUR_CHIMERA_API_TOKEN'
-openai.api_base = "https://chimeragpt.adventblocks.cc/v1"
+openai.api_base = "https://chimeragpt.adventblocks.cc/api/v1"
 
 available_models = [
     "gpt-4",
