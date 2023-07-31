@@ -17,12 +17,12 @@ openai.api_key = 'YOUR_CHIMERA_API_TOKEN'
 openai.api_base = "https://chimeragpt.adventblocks.cc/api/v1"
 
 available_models = [
-    "gpt-4",
-    "gpt-3.5-turbo",
-    "claude-instant-100k",
-    "claude-instant",
-    "gpt-4-poe",
-    "gpt-3.5-turbo-poe",
+        "gpt-4",
+        "gpt-3.5-turbo",
+        "gpt-4-0314",
+        "gpt-3.5-turbo-0301",
+        "gpt-3.5-turbo-16k",
+        "llama-2-70b-chat"
 ]
 
 logging.basicConfig(level=logging.INFO)
